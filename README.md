@@ -10,17 +10,19 @@ Important KPI's in Project
 
 3 AVG Salary
 
-4  Attrition by gender.
+4 Active Employees.
 
-5  Business travel wise employee count.
+5  Attrition by gender.
 
-6  Education field wise attrition.
+6  Business travel wise employee count.
 
-7  Department wise job involvement.
+7  Education field wise attrition.
 
-8  Age group wise number of employees.
+8  Department wise job involvement.
 
-9  Business travel wise attrition count.
+9  Age group wise number of employees.
+
+10  Business travel wise attrition count.
 
 
 
